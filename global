@@ -1,0 +1,2 @@
+echo "# quanx" >> README.md
+git push -u origin main
