@@ -362,13 +362,13 @@ HOST, wego.here.com, PROXY
 HOST-SUFFIX, go.dev, PROXY
 HOST-SUFFIX, golang.org, PROXY
 # ---(Apple)---
-HOST-SUFFIX, appsto.re, PROXY
-HOST-SUFFIX, smoot.apple.com, PROXY
-HOST, amp-api.podcasts.apple.com, PROXY
-HOST, beta.music.apple.com, PROXY
-HOST, books.itunes.apple.com, PROXY
-HOST, lookup-api.apple.com, PROXY
-HOST, radio.itunes.apple.com, PROXY
+#HOST-SUFFIX, appsto.re, PROXY
+#HOST-SUFFIX, smoot.apple.com, PROXY
+#HOST, amp-api.podcasts.apple.com, PROXY
+#HOST, beta.music.apple.com, PROXY
+#HOST, books.itunes.apple.com, PROXY
+#HOST, lookup-api.apple.com, PROXY
+#HOST, radio.itunes.apple.com, PROXY
 # > Web Preview
 HOST, apps.apple.com, PROXY
 HOST, books.apple.com, PROXY
