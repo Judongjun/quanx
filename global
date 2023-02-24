@@ -295,18 +295,6 @@ HOST-SUFFIX, pximg.net, PROXY
 # > Steam
 HOST-SUFFIX, steamcommunity.com, PROXY
 # HOST, store.steampowered.com, PROXY
-
-# > Twitter
-#HOST-SUFFIX, periscope.tv, PROXY
-#HOST-SUFFIX, pscp.tv, PROXY
-#HOST-SUFFIX, t.co, PROXY
-#HOST-SUFFIX, tweetdeck.com, PROXY
-#HOST-SUFFIX, twimg.co, PROXY
-#HOST-SUFFIX, twimg.com, PROXY
-#HOST-SUFFIX, twitpic.com, PROXY
-#HOST-SUFFIX, twitter.com, PROXY
-#HOST-SUFFIX, twitter.jp, PROXY
-#HOST-SUFFIX, vine.co, PROXY
 # > Wikimedia Foundation
 HOST-SUFFIX, mediawiki.org, PROXY
 HOST-SUFFIX, wikibooks.org, PROXY
@@ -340,14 +328,6 @@ HOST, wego.here.com, PROXY
 # > Alphabet
 HOST-SUFFIX, go.dev, PROXY
 HOST-SUFFIX, golang.org, PROXY
-# ---(Apple)---
-#HOST-SUFFIX, appsto.re, PROXY
-#HOST-SUFFIX, smoot.apple.com, PROXY
-#HOST, amp-api.podcasts.apple.com, PROXY
-#HOST, beta.music.apple.com, PROXY
-#HOST, books.itunes.apple.com, PROXY
-#HOST, lookup-api.apple.com, PROXY
-#HOST, radio.itunes.apple.com, PROXY
 # > Web Preview
 HOST, apps.apple.com, PROXY
 HOST, books.apple.com, PROXY
