@@ -184,9 +184,6 @@ HOST-SUFFIX, zophar.net, PROXY
 HOST-SUFFIX, zyxel.com, PROXY
 HOST, lab.skk.moe, PROXY
 HOST, ocsp.int-x3.letsencrypt.org, PROXY
-# > Akamai
-HOST, a248.e.akamai.net, PROXY
-HOST, a771.dscq.akamai.net, PROXY
 # > Amazon
 HOST-SUFFIX, amazon.co.jp, PROXY
 HOST, d3c33hcgiwev3.cloudfront.net, PROXY
@@ -239,17 +236,11 @@ HOST-SUFFIX, zynamics.com, PROXY
 HOST-KEYWORD, google, PROXY
 HOST-KEYWORD, .blogspot., PROXY
 HOST-SUFFIX, goog, PROXY
-# > Apple
-HOST, testflight.apple.com, PROXY
 # > Automattic
 HOST-SUFFIX, gravatar.com, PROXY
 HOST-SUFFIX, tumblr.com, PROXY
 HOST-SUFFIX, videopress.com, PROXY
 HOST-SUFFIX, wordpress.com, PROXY
-# > Dropbox
-HOST-SUFFIX, dropbox.com, PROXY
-HOST-SUFFIX, dropboxapi.com, PROXY
-HOST-SUFFIX, dropboxusercontent.com, PROXY
 # > Meta
 HOST-SUFFIX, accountkit.com, PROXY
 HOST-SUFFIX, cdninstagram.com, PROXY
@@ -285,13 +276,6 @@ HOST, assets1.xboxlive.com, PROXY
 HOST, assets2.xboxlive.com, PROXY
 HOST, az416426.vo.msecnd.net, PROXY
 HOST, az668014.vo.msecnd.net, PROXY
-# > Pinterest
-HOST-SUFFIX, pinimg.com, PROXY
-HOST-KEYWORD, .pinterest., PROXY
-# > pixiv
-HOST-SUFFIX, pixiv.net, PROXY
-HOST-SUFFIX, pixiv.org, PROXY
-HOST-SUFFIX, pximg.net, PROXY
 # > Steam
 HOST-SUFFIX, steamcommunity.com, PROXY
 # HOST, store.steampowered.com, PROXY
