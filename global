@@ -317,15 +317,6 @@ HOST, apps.apple.com, PROXY
 HOST, books.apple.com, PROXY
 HOST, itunes.apple.com, PROXY
 HOST, tv.apple.com, PROXY
-# > News
-HOST, gateway.icloud.com, PROXY
-HOST-SUFFIX, apple.news, PROXY
-HOST, news-assets.apple.com, PROXY
-HOST, news-client.apple.com, PROXY
-HOST, news-client-search.apple.com, PROXY
-HOST, news-edge.apple.com, PROXY
-HOST, news-events.apple.com, PROXY
-HOST, apple.comscoreresearch.com, PROXY
 # ------
 # > Microsoft
 HOST-SUFFIX, bing.com, PROXY
