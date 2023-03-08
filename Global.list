@@ -309,12 +309,6 @@ DOMAIN,disk.yandex.com
 # > Alphabet
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
-
-# > Web Preview
-DOMAIN,apps.apple.com
-DOMAIN,books.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN,tv.apple.com
 # ------
 # > Microsoft
 DOMAIN-SUFFIX,bing.com
