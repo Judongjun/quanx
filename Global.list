@@ -217,7 +217,7 @@ DOMAIN-SUFFIX,getoutline.org
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,gmodules.com
-# DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt3.com
@@ -236,9 +236,7 @@ DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,zynamics.com
-DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,.blogspot.
-DOMAIN-SUFFIX,goog
 # > Apple
 DOMAIN,testflight.apple.com
 # > Automattic
