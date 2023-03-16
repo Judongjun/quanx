@@ -38,5 +38,6 @@ HOST-SUFFIX,googletagservices-cn.com,Google
 HOST-SUFFIX,googletraveladservices-cn.com,Google
 HOST-SUFFIX,googlevads-cn.com,Google
 HOST-SUFFIX,googleventures.com,Google
-HOST-SUFFIX,google.co.jp
-HOST-SUFFIX,google.jp
+HOST-SUFFIX,google.co.jp,Google
+HOST-SUFFIX,google.jp,Google
+HOST-SUFFIX,gstatic.com,Google
