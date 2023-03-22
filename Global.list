@@ -307,10 +307,6 @@ DOMAIN,disk.yandex.com
 # > Alphabet
 DOMAIN-SUFFIX,go.dev
 DOMAIN-SUFFIX,golang.org
-# ------
-# > Microsoft
-DOMAIN-SUFFIX,bing.com
-DOMAIN-SUFFIX,linkedin.com
+# microsoft
 DOMAIN-SUFFIX,licdn.com
-DOMAIN-SUFFIX,msn.com
-DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,linkedin.com
